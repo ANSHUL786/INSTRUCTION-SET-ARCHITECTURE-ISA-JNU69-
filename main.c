@@ -1,8 +1,5 @@
 /*           ISA-JNU69
-                TEAM MEMBERS
-                       Aditya Sharma 14UCS007
-                       Anshul Goyal  14UCS020
-                       Vinod Sharma  14UCC042
+          
 */
 
 #include<stdio.h>
